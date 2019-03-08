@@ -1,2 +1,2 @@
 # python
-My python cides
+My python codes
